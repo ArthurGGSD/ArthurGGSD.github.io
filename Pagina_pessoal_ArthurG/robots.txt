@@ -1,0 +1,9 @@
+User-agent: GoogleBot
+Allow: /index.html
+Allow: /curriculo.html
+Allow: /politica.html
+Allow: /portfolio.html
+Allow: /formulario.html
+User-agent: *
+Disallow: /
+Sitemap: http://<www.ArthurG.com.br>/sitemap.xml
