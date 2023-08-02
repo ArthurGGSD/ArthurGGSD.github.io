@@ -4,6 +4,9 @@ Allow: /curriculo.html
 Allow: /politica.html
 Allow: /portfolio.html
 Allow: /formulario.html
+Allow: /cartao.html
+Allow: /formulario_resposta.html
+Allow: /index_manutencao.html
 User-agent: *
 Disallow: /
-Sitemap: http://<www.ArthurG.com.br>/sitemap.xml
+Sitemap: http://<arthurggsd.github.io>/sitemap.xml
